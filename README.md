@@ -1,5 +1,7 @@
 ### Your friendly neighbourhood programmer 👋
 
+I like to experiment and build things. Mostly with React, Typescript and MUI.
+
 <!--
 **vworo/vworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
