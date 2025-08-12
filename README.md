@@ -1,4 +1,4 @@
-### Your friendly neighbourhood programmer 👋
+## Your friendly neighbourhood programmer 👋
 
 I like to experiment and build things. Mostly with React, Typescript and MUI.
 
