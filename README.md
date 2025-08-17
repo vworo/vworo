@@ -1,18 +1,36 @@
-### Your friendly neighbourhood programmer 👋
+# Hi there, I'm V 👋  
 
-I like to experiment and build things. Mostly with React, Typescript and MUI.
+I'm a **Software Engineer** passionate about building clean, scalable, and user-friendly applications.  
+I enjoy working across the stack with a focus on **frontend development** and modern web technologies.  
 
-<!--
-**vworo/vworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend  
+- **Frameworks & Libraries:** Next.js, React, Vue  
+- **Languages:** JavaScript, TypeScript, Ruby  
+- **Styling:** CSS, Tailwind, MUI, Bootstrap, HTML  
+
+### Backend & Databases  
+- Ruby on Rails  
+- MongoDB, Firebase  
+
+### Cloud & Tools  
+- Google Cloud Platform (GCP)  
+- Git & GitHub  
+
+---
+
+## 🌱 What I'm Learning  
+- Deepening my knowledge of **cloud architecture & DevOps**  
+- Building scalable full-stack applications with **Next.js & GCP**  
+
+---
+
+## 📫 Get in Touch  
+- LinkedIn: [https://www.linkedin.com/in/victor-worobec/](https://www.linkedin.com/in/victor-worobec/)  
+
+---
+
+⭐️ Feel free to explore my repositories and projects!
