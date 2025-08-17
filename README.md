@@ -1,4 +1,4 @@
-# Hi there, I'm V 👋  
+# Hi there, I'm Victor 👋  
 
 I'm a **Software Engineer** passionate about building clean, scalable, and user-friendly applications.  
 I enjoy working across the stack with a focus on **frontend development** and modern web technologies.  
