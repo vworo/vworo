@@ -29,7 +29,8 @@ I enjoy working across the stack with a focus on **frontend development** and mo
 ---
 
 ## 📫 Get in Touch  
-- LinkedIn: [https://www.linkedin.com/in/victor-worobec/](https://www.linkedin.com/in/victor-worobec/)  
+- LinkedIn: [https://www.linkedin.com/in/victor-worobec/](https://www.linkedin.com/in/victor-worobec/)
+- Email: victorworobec@gmail.com
 
 ---
 
